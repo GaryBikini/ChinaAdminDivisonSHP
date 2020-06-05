@@ -20,3 +20,16 @@
 
 区县级：districts.shp
 
+## 说明
+属性数据中的一些英文简写说明
+
+adcode：administrative code，行政编码
+
+cn：country
+
+pr：province
+
+ct：city
+
+dt：district
+
