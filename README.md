@@ -33,3 +33,7 @@ ct：city
 
 dt：district
 
+## 引用
+[![DOI](https://zenodo.org/badge/269489269.svg)](https://zenodo.org/badge/latestdoi/269489269)
+
+推荐引用格式：GaryBikini/ChinaAdminDivisonSHP: v1.1, 2020, DOI: 10.5281/zenodo.4167299
