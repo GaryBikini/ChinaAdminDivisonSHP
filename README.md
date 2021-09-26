@@ -2,23 +2,23 @@
 中国行政区划矢量图，Shapefile格式，共四级：国家、省、市、区/县。
 
 ## 详细信息
-数据来源：高德地图 JavaScript API
+数据来源：高德地图 JS API v2.0 的[行政区查询](https://lbs.amap.com/api/jsapi-v2/guide/services/district-search)
 
-获取时间：2020-06-03
+获取时间：2021-09-26
 
 数据格式：Shapefile
 
-坐标系统：WGS 1984（实际为火星坐标系——GCJ-02，其基于WGS 1984，但在经纬度中加入了看似随机的偏移）
+坐标系统：WGS 84（实际为[火星坐标系——GCJ-02](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%9C%B0%E7%90%86%E6%95%B0%E6%8D%AE%E9%99%90%E5%88%B6#GCJ-02)，见[参考资料](https://lbs.amap.com/api/javascript-api/guide/transform/convertfrom)；其基于WGS 1984，但在经纬度中加入了看似随机的偏移）
 
 
 ## 数据列表
-国家级：country.shp
+1. Country（国家级）：country.shp
 
-省级：provinces.shp
+2. Province（省级）：province.shp
 
-市级：cities.shp
+3. City（市级）：city.shp
 
-区/县级：districts.shp
+4. District（区/县级）：district.shp
 
 ## 说明
 有关属性数据中的一些英文简写说明
