@@ -20,6 +20,23 @@
 
 4. District（区/县级）：district.shp
 
+## 示例
+1. Country
+![Country](5.%20Demo/Country.png)
+![Country Attribute](5.%20Demo/CountryAttr.png)
+
+2. Province
+![Province](5.%20Demo/Province.png)
+![Province Attribute](5.%20Demo/ProvinceAttr.png)
+
+3. City
+![City](5.%20Demo/City.png)
+![City Attribute](5.%20Demo/CityAttr.png)
+
+4. District
+![District](5.%20Demo/District.png)
+![District Attribute](5.%20Demo/DistrictAttr.png)
+
 ## 说明
 有关属性数据中的一些英文简写说明
 
