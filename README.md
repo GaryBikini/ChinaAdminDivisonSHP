@@ -4,7 +4,7 @@
 ## 详细信息
 数据来源：高德地图 JS API v2.0 的[行政区查询](https://lbs.amap.com/api/jsapi-v2/guide/services/district-search)
 
-获取时间：2021-10-08
+获取时间：2021-11-07
 
 数据格式：Shapefile
 
