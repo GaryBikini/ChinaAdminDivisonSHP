@@ -54,3 +54,6 @@ dt：district
 [![DOI](https://zenodo.org/badge/269489269.svg)](https://zenodo.org/badge/latestdoi/269489269)
 
 推荐引用格式：GaryBikini/ChinaAdminDivisonSHP: v2.0, 2021, DOI: 10.5281/zenodo.4167299
+
+## 标注本项目的论文
+[1] JIANG ZY, ZHAO S, YANG ZY, JIA FL, HÁJEK J. A review of Copelatus Erichson, 1832 of Mainland China, with description of ten new species from the japonicus complex (Coleoptera: Dytiscidae: Copelatinae). Zootaxa. 2022;5124(3):251-295. doi:10.11646/zootaxa.5124.3.1
