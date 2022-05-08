@@ -1,12 +1,10 @@
 # ChinaAdminDivisonSHP
-中国行政区划矢量图，Shapefile格式，共四级：国家、省、市、区/县。关键字：中国行政区划图；中国地图；中国行政区；中国行政区地图；行政区地图；行政区；行政区划；地图；矢量数据；矢量地理数据；省级；市级；区/县级；行政区划图。
+中国行政区划矢量图，ESRI Shapefile格式，共四级：国家、省/直辖市、市、区/县。关键字：中国行政区划图；中国地图；中国行政区；中国行政区地图；行政区地图；行政区；行政区划；地图；矢量数据；矢量地理数据；省级；直辖市；市级；区/县级；行政区划图。
 
 ## 详细信息
-数据来源：高德地图 JS API v2.0 的[行政区查询](https://lbs.amap.com/api/jsapi-v2/guide/services/district-search)
+数据来源：高德Web服务API中的[行政区域查询](https://lbs.amap.com/api/webservice/guide/api/district)
 
-获取时间：2022-01-07
-
-数据格式：Shapefile
+数据格式：ESRI Shapefile
 
 坐标系统：WGS 84（实际为[火星坐标系——GCJ-02](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%9C%B0%E7%90%86%E6%95%B0%E6%8D%AE%E9%99%90%E5%88%B6#GCJ-02)，见[参考资料](https://lbs.amap.com/api/javascript-api/guide/transform/convertfrom)；其基于WGS 1984，但在经纬度中加入了看似随机的偏移）
 
