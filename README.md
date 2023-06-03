@@ -57,3 +57,5 @@ dt：district
 [1] JIANG ZY, ZHAO S, YANG ZY, JIA FL, HÁJEK J. A review of Copelatus Erichson, 1832 of Mainland China, with description of ten new species from the japonicus complex (Coleoptera: Dytiscidae: Copelatinae). Zootaxa. 2022;5124(3):251-295. doi:10.11646/zootaxa.5124.3.1
 
 [2] Chang H, Li L, Huang J, Zhang Q, Chin KS. Tracking traffic congestion and accidents using social media data: A case study of Shanghai. Accid Anal Prev. 2022;169(August 2021):106618. doi:10.1016/j.aap.2022.106618
+
+[3] JIANG ZY, ZHAO S, JIA, FL, & ŠŤASTNÝ, J. Two new species of Platynectes Régimbart, 1879 from China with notes on other Chinese members of the genus, including a key to species (Coleoptera: Dytiscidae: Agabinae). Zootaxa, 2023;5227(4), 401–425. doi:10.11646/zootaxa.5227.4.1
