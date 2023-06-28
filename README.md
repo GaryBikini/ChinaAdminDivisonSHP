@@ -54,8 +54,10 @@ dt：district
 推荐引用格式：GaryBikini/ChinaAdminDivisonSHP: v2.0, 2021, DOI: 10.5281/zenodo.4167299
 
 ## 标注本项目的论文
-[1] JIANG ZY, ZHAO S, YANG ZY, JIA FL, HÁJEK J. A review of Copelatus Erichson, 1832 of Mainland China, with description of ten new species from the japonicus complex (Coleoptera: Dytiscidae: Copelatinae). Zootaxa. 2022;5124(3):251-295. doi:10.11646/zootaxa.5124.3.1
+[1] JIANG ZY, ZHAO S, YANG ZY, JIA FL, HÁJEK J. A review of Copelatus Erichson, 1832 of Mainland China, with description of ten new species from the japonicus complex (Coleoptera: Dytiscidae: Copelatinae). Zootaxa. 2022;5124(3):251-295. doi: [10.11646/zootaxa.5124.3.1](https://doi.org/10.11646/zootaxa.5124.3.1)
 
-[2] Chang H, Li L, Huang J, Zhang Q, Chin KS. Tracking traffic congestion and accidents using social media data: A case study of Shanghai. Accid Anal Prev. 2022;169(August 2021):106618. doi:10.1016/j.aap.2022.106618
+[2] Chang H, Li L, Huang J, Zhang Q, Chin KS. Tracking traffic congestion and accidents using social media data: A case study of Shanghai. Accid Anal Prev. 2022;169(August 2021):106618. doi: [10.1016/j.aap.2022.106618](https://doi.org/10.1016/j.aap.2022.106618)
 
-[3] JIANG ZY, ZHAO S, JIA, FL, & ŠŤASTNÝ, J. Two new species of Platynectes Régimbart, 1879 from China with notes on other Chinese members of the genus, including a key to species (Coleoptera: Dytiscidae: Agabinae). Zootaxa, 2023;5227(4), 401–425. doi:10.11646/zootaxa.5227.4.1
+[3] JIANG ZY, ZHAO S, JIA, FL, & ŠŤASTNÝ, J. Two new species of Platynectes Régimbart, 1879 from China with notes on other Chinese members of the genus, including a key to species (Coleoptera: Dytiscidae: Agabinae). Zootaxa, 2023;5227(4), 401–425. doi: [10.11646/zootaxa.5227.4.1](https://doi.org/10.11646/zootaxa.5227.4.1)
+
+[4] Jiang X, Guo X, Wu Y, Xu D, Liu Y, Yang Y and Lan G (2023) Ecological vulnerability assessment based on remote sensing ecological index (RSEI): A case of Zhongxian County, Chongqing. Front. Environ. Sci. 10:1074376. doi: [10.3389/fenvs.2022.1074376](https://doi.org/10.3389/fenvs.2022.1074376)
