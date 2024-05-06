@@ -1,6 +1,9 @@
 # ChinaAdminDivisonSHP
 中国行政区划矢量图，ESRI Shapefile格式，共四级：国家、省/直辖市、市、区/县。关键字：中国行政区划图；中国地图；中国行政区；中国行政区地图；行政区地图；行政区；行政区划；地图；矢量数据；矢量地理数据；省级；直辖市；市级；区/县级；行政区划图。
 
+## 2024年5月6日的新消息
+给大家分享一个新消息，天地图于2023年12月8日提供了更为权威的省、市、县的行政区划数据，格式为GeoJSON。并且包含了详细的海上、陆上的边境线数据（这是本项目所欠缺的，其他不同之处待探索）。如有兴趣，可移步[天地图官网](https://www.tianditu.gov.cn/)，操作步鄹可参考[公众号文章](https://mp.weixin.qq.com/s/tcoCyr-Zo0sn1pDHqDMcCw)
+
 ## 详细信息
 数据来源：高德Web服务API中的[行政区域查询](https://lbs.amap.com/api/webservice/guide/api/district)
 
