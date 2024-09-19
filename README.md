@@ -66,3 +66,9 @@ dt：district
 [4] Jiang X, Guo X, Wu Y, Xu D, Liu Y, Yang Y and Lan G (2023) Ecological vulnerability assessment based on remote sensing ecological index (RSEI): A case of Zhongxian County, Chongqing. Front. Environ. Sci. 10:1074376. doi: [10.3389/fenvs.2022.1074376](https://doi.org/10.3389/fenvs.2022.1074376)
 
 [5] Pan, YF., Zhao, H., Gou, QY. et al. Metagenomic analysis of individual mosquito viromes reveals the geographical patterns and drivers of viral diversity. Nature Ecology & Evolution (2024). doi: [10.1038/s41559-024-02365-0](https://doi.org/10.1038/s41559-024-02365-0)   
+
+[6] Zhong, H., Wang, B., & Zhang, S. (2024). Spatial analysis of digital economy and its driving factors: A case study of the Yangtze River Delta City Cluster in China. Plos one, 19(5), e0300443. doi: [10.1371/journal.pone.0300443](https://doi.org/10.1371/journal.pone.0300443).
+
+[7] Wang, H., WU, R., & Liu, Q. (2024). Spatial Spillover Effects of Ecosystem Service Values in Northeast China Tiger and Leopard National Park Based on Spatial Durbin Model Analysis. Available at SSRN 4858573. doi: [10.1016/j.ecolind.2024.112509](https://doi.org/10.1016/j.ecolind.2024.112509).
+
+[8] Yu, F., Jiao, L., Chen, Q., Wang, Q., De Allegri, M., Cao, Z., ... & Chen, S. (2024). Preferences regarding COVID-19 vaccination among 12,000 adults in China: A cross-sectional discrete choice experiment. PLOS Global Public Health, 4(7), e0003387. doi: [10.1371/journal.pgph.0003387](https://doi.org/10.1371/journal.pgph.0003387).
