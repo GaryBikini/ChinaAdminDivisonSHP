@@ -57,18 +57,18 @@ dt：district
 推荐引用格式：GaryBikini/ChinaAdminDivisonSHP: v24.02.06, 2024, DOI: [10.5281/zenodo.10624971](https://zenodo.org/badge/latestdoi/269489269)
 
 ## 标注本项目的论文
-[1] JIANG ZY, ZHAO S, YANG ZY, JIA FL, HÁJEK J. A review of Copelatus Erichson, 1832 of Mainland China, with description of ten new species from the japonicus complex (Coleoptera: Dytiscidae: Copelatinae). Zootaxa. 2022;5124(3):251-295. doi: [10.11646/zootaxa.5124.3.1](https://doi.org/10.11646/zootaxa.5124.3.1)
+[1] JIANG ZY, ZHAO S, YANG ZY, JIA FL, HÁJEK J. (2022). A review of Copelatus Erichson, 1832 of Mainland China, with description of ten new species from the japonicus complex (Coleoptera: Dytiscidae: Copelatinae). Zootaxa. doi: [10.11646/zootaxa.5124.3.1](https://doi.org/10.11646/zootaxa.5124.3.1)
 
-[2] Chang H, Li L, Huang J, Zhang Q, Chin KS. Tracking traffic congestion and accidents using social media data: A case study of Shanghai. Accid Anal Prev. 2022;169(August 2021):106618. doi: [10.1016/j.aap.2022.106618](https://doi.org/10.1016/j.aap.2022.106618)
+[2] Chang H, Li L, Huang J, Zhang Q, Chin KS. (2022). Tracking traffic congestion and accidents using social media data: A case study of Shanghai. Accid Anal Prev. doi: [10.1016/j.aap.2022.106618](https://doi.org/10.1016/j.aap.2022.106618)
 
-[3] JIANG ZY, ZHAO S, JIA, FL, & ŠŤASTNÝ, J. Two new species of Platynectes Régimbart, 1879 from China with notes on other Chinese members of the genus, including a key to species (Coleoptera: Dytiscidae: Agabinae). Zootaxa, 2023;5227(4), 401–425. doi: [10.11646/zootaxa.5227.4.1](https://doi.org/10.11646/zootaxa.5227.4.1)
+[3] JIANG ZY, ZHAO S, JIA, FL, & ŠŤASTNÝ, J. (2023). Two new species of Platynectes Régimbart, 1879 from China with notes on other Chinese members of the genus, including a key to species (Coleoptera: Dytiscidae: Agabinae). Zootaxa. doi: [10.11646/zootaxa.5227.4.1](https://doi.org/10.11646/zootaxa.5227.4.1)
 
-[4] Jiang X, Guo X, Wu Y, Xu D, Liu Y, Yang Y and Lan G (2023) Ecological vulnerability assessment based on remote sensing ecological index (RSEI): A case of Zhongxian County, Chongqing. Front. Environ. Sci. 10:1074376. doi: [10.3389/fenvs.2022.1074376](https://doi.org/10.3389/fenvs.2022.1074376)
+[4] Jiang X, Guo X, Wu Y, Xu D, Liu Y, Yang Y and Lan G. (2023). Ecological vulnerability assessment based on remote sensing ecological index (RSEI): A case of Zhongxian County, Chongqing. Front. Environ. Sci. 10:1074376. doi: [10.3389/fenvs.2022.1074376](https://doi.org/10.3389/fenvs.2022.1074376)
 
-[5] Pan, YF., Zhao, H., Gou, QY. et al. Metagenomic analysis of individual mosquito viromes reveals the geographical patterns and drivers of viral diversity. Nature Ecology & Evolution (2024). doi: [10.1038/s41559-024-02365-0](https://doi.org/10.1038/s41559-024-02365-0)   
+[5] Pan, YF., Zhao, H., Gou, QY. et al. (2024). Metagenomic analysis of individual mosquito viromes reveals the geographical patterns and drivers of viral diversity. Nature Ecology & Evolution. doi: [10.1038/s41559-024-02365-0](https://doi.org/10.1038/s41559-024-02365-0)  
 
-[6] Zhong, H., Wang, B., & Zhang, S. (2024). Spatial analysis of digital economy and its driving factors: A case study of the Yangtze River Delta City Cluster in China. Plos one, 19(5), e0300443. doi: [10.1371/journal.pone.0300443](https://doi.org/10.1371/journal.pone.0300443).
+[6] Zhong, H., Wang, B., & Zhang, S. (2024). Spatial analysis of digital economy and its driving factors: A case study of the Yangtze River Delta City Cluster in China. Plos one, 19(5), e0300443. doi: [10.1371/journal.pone.0300443](https://doi.org/10.1371/journal.pone.0300443)
 
-[7] Wang, H., WU, R., & Liu, Q. (2024). Spatial Spillover Effects of Ecosystem Service Values in Northeast China Tiger and Leopard National Park Based on Spatial Durbin Model Analysis. Available at SSRN 4858573. doi: [10.1016/j.ecolind.2024.112509](https://doi.org/10.1016/j.ecolind.2024.112509).
+[7] Wang, H., WU, R., & Liu, Q. (2024). Spatial Spillover Effects of Ecosystem Service Values in Northeast China Tiger and Leopard National Park Based on Spatial Durbin Model Analysis. Available at SSRN 4858573. doi: [10.1016/j.ecolind.2024.112509](https://doi.org/10.1016/j.ecolind.2024.112509)
 
-[8] Yu, F., Jiao, L., Chen, Q., Wang, Q., De Allegri, M., Cao, Z., ... & Chen, S. (2024). Preferences regarding COVID-19 vaccination among 12,000 adults in China: A cross-sectional discrete choice experiment. PLOS Global Public Health, 4(7), e0003387. doi: [10.1371/journal.pgph.0003387](https://doi.org/10.1371/journal.pgph.0003387).
+[8] Yu, F., Jiao, L., Chen, Q., Wang, Q., De Allegri, M., Cao, Z., ... & Chen, S. (2024). Preferences regarding COVID-19 vaccination among 12,000 adults in China: A cross-sectional discrete choice experiment. PLOS Global Public Health, 4(7), e0003387. doi: [10.1371/journal.pgph.0003387](https://doi.org/10.1371/journal.pgph.0003387)
